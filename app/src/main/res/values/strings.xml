@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjerciciosLabs</string>
+    <string name="getting_data">Obteniendo data</string>
+    <string name="error_fetching_data">Error obteniendo data</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_internect_connection">Sin conexión a internet</string>
+</resources>

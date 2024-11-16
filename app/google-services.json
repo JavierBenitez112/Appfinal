@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907672274438",
+    "project_id": "uvg2024",
+    "storage_bucket": "uvg2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907672274438:android:c3e24687fdc0dfa6072587",
+        "android_client_info": {
+          "package_name": "com.uvg.ejercicioslabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVMroGuKlFLoqC5HRWKrO_CO_46r7kng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
